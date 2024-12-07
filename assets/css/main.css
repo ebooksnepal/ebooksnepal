@@ -985,7 +985,7 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 30%);
 }
 .card {
-  width: 18rem;
+  width: auto;
 }
 @media (max-width: 575.98px) {
   .card {
